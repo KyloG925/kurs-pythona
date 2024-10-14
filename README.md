@@ -2,4 +2,4 @@
 
 Miejsce z moimi rozwiązaniami małych zadań z kursu Pythona.
 
-Krzysztof Głowiński
+Krzysztof Głowiński kg439929
